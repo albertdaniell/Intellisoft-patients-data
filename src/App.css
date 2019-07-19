@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  margin-top: 20
 }
 
 .App-logo {
@@ -30,4 +30,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.navbar{
+  background-color: #bb002f;
+  border-radius: 5px;
+  margin-bottom: 20
+}
+
+.navbar a{
+  color:white;
+  
 }
